@@ -16,7 +16,7 @@ const Groups = lazy(() => import("./pages/Groups"));
 const NotFound = lazy(() => import("./pages/NotFound"));
 
 const AdminLogin = lazy(() => import("./pages/admin/AdminLogin"));
-const Dashboard = lazy(() => import("./pages/admin/Dashboard"));
+const Dashboard = lazy(() => import("./pages/admin/DashBoard"));
 const UserManagement = lazy(() => import("./pages/admin/UserManagement"));
 const ChatManagement = lazy(() => import("./pages/admin/ChatManagement"));
 const MessagesManagement = lazy(() =>
