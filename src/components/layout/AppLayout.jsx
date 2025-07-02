@@ -24,7 +24,6 @@ import {
 } from "../../redux/reducers/misc";
 import { getSocket } from "../../socket";
 import DeleteChatMenu from "../dialogs/DeleteChatMenu";
-import Title from "../shared/Title";
 import ChatList from "../specific/ChatList";
 import Profile from "../specific/Profile";
 import Header from "./Header";
@@ -89,7 +88,7 @@ const AppLayout = () => (WrappedComponent) => {
 
     return (
       <>
-        <Title />
+        {/* <Title /> */}
         <Header />
         <DeleteChatMenu
           dispatch={dispatch}
