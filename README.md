@@ -26,7 +26,7 @@ Backend Repo Link: https://github.com/SaurabhSawade/SauChat-backend.git
 - Material-UI (MUI) v7
 - Socket.IO Client
 - Axios
-- React Helmet Async
+  
 
 **Backend:**
 - Node.js
