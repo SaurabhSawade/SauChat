@@ -1,0 +1,1 @@
+export const server = "https://sauchat-backend.onrender.com";
